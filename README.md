@@ -29,6 +29,6 @@ The goal of this project was to create a convolutional neural network that will 
   - [Kaggle BTClassification Preprocessing](preprocessing/preprocessing_kaggle_btclassification.ipynb)
 - [Data](./data/)
   - [Combined Dataset](data/combined.csv)
-- [Models]
+- [Models](./models/)
   - [Binary Model](./models/Binary_Model_GPU.ipynb)
   - [Multiclass Model](./models/Multiclass_Model_GPU.ipynb)
